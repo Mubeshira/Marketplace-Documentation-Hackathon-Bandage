@@ -236,3 +236,8 @@ Run sanity dataset list to ensure the correct dataset is selected.
 Console Errors: Use console.error() to debug issues during API calls.
 I found errors on build time which i solved first and then push the repository.
 but my cards fetching from api sanity didnot appear on vercel . So i resolve this issue by making by component server component.
+
+
+for performance testing i use Lighthouse tool.
+for components testing i use cypress tool.
+for API testing i use Postman and thunder client both.
